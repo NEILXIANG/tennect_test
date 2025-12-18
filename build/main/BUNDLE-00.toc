@@ -1,3 +1,0 @@
-([('main',
-   '/Users/neilxiang/CodeBuddy/20251212131046/hello_world/dist/main',
-   'EXECUTABLE')],)

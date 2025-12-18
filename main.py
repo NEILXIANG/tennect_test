@@ -3,6 +3,8 @@
 
 def main():
     print("iloveyou")
+    print("\n按回车键退出...")
+    input()
 
 if __name__ == "__main__":
     main()
